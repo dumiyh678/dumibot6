@@ -1,7 +1,7 @@
 <div align="center">
   <img border-radius: 15px src="https://i.ibb.co/7G8DcmD/IMG-20210818-162806.jpg" width="300" height="300"/>
   <p align="center">
-<a href="#"><img title="White" src="https://img.shields.io/badge/T REX PUBLIC-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="White" src="https://img.shields.io/badge/DUMIBOT OFFICIAL -white?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/dumiyh678"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥 DUMIBOY-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
