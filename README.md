@@ -35,7 +35,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/HmalrdeVMtjDR2MUD1AnBf)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TRexWa&repo=T-REX&theme=nightowl)](https://github.com/TRexWa/T-REX)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dumiyh678&repo=dumibot6&theme=nightowl)](https://github.com/dumiyh678/dumibot6)
   </div>
     
 ## Setup
