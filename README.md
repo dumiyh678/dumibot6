@@ -1,31 +1,30 @@
-
 <div align="center">
-  <img border-radius: 15px src="https://i.ibb.co/7G8DcmD/IMG-20210818-162806.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.ibb.co/WGNfQhB/IMG-20210820-001112.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="White" src="https://img.shields.io/badge/DUMI BOT-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="White" src="https://img.shields.io/badge/T REX PUBLIC-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥DUMINDU-Developer👉CHATHURANGA-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/TRexWa"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥 DUMIBOY-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/farhan-dqz">DUMINDU-CHATHURANGA</a> to make it public
-    <br>
+Project created by <a href="https://github.com/dumiyah678"> DUMIYA</a> This project may be free
+    <br
        | © |
-        Reserved |
+        owner |
     <br> 
 </p>
 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
-    <img src="https://img.shields.io/github/repo-size/farhan-dqz/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="https://github.com/TRexWa">
+    <img src="https://img.shields.io/github/repo-size/TRexWa/T-REX?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/farhan-dqz/followers"><img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/farhan-dqz/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/farhan-dqz/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/farhan-dqz/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/TRexWa/followers"><img title="Followers" src="https://img.shields.io/github/followers/TRexWa?color=blue&style=flat-square"></a>
+<a href="https://github.com/TRexWa/T-REX/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/TRexWa/T-REX?color=blue&style=flat-square"></a>
+<a href="https://github.com/TRexWa/T-REX/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TRexWa/T-REX?color=blue&style=flat-square"></a>
+<a href="https://github.com/TRexWa/T-REX/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TRexWa/T-REX?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -36,7 +35,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/HmalrdeVMtjDR2MUD1AnBf)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=PublicBot&theme=nightowl)](https://github.com/farhan-dqz/PublicBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TRexWa&repo=T-REX&theme=nightowl)](https://github.com/TRexWa/T-REX)
   </div>
     
 ## Setup
@@ -44,7 +43,7 @@ Click WA logo to Join Support Group 👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@TRexWa/T-REX-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/dumiyh678/dumibot6)
      </div>
@@ -59,16 +58,14 @@ bash <(curl -L https://t.ly/tHxh)
 ### ⚠️ Warning! 
 ```
 කරුනාකර ඉහත වට්සැප් ලොගො එක ක්ලික් කරල suppot group එකට ජොයින් වෙන්න
-CREATED BY DUMINDU CHATHURANGA
+CREATED BY HIRUWA
 ```
 
 ## Helpers
   <div align="center">
     
-  [![DUMI BOT](https://i.ibb.co/7G8DcmD/IMG-20210818-162806.jpg?size=100)]size=100)](https://github.com/dumiyh678/dumibot6) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
-----|----|----
-[dumi bot](https://github.com/farhan-dqz)  |
-Base, owner | Help to create bot |
+![DUMIYH](https://i.ibb.co/7G8DcmD/IMG-20210818-162806.jpg?size=200) <br>
+Base, owner |
   </div>
     
 
